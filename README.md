@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at : [**Projects**](github.com/icyy)
+- 👨‍💻 All of my projects are available at : [**Projects**](https://github.com/Icyy?tab=repositories)
 
 - 💬 Ask me about : **React,Javascript,Typescript**
 
