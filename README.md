@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Om Auty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Abhay Medical Dashboard](https://github.com/Icyy/AbhayMedicalInventory)
+- 🔭 I’m currently working on [**Abhay Medical Dashboard**](https://github.com/Icyy/AbhayMedicalInventory)
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [github.com/icyy](github.com/icyy)
+- 👨‍💻 All of my projects are available at : [**Projects**](github.com/icyy)
 
-- 💬 Ask me about **React,Javascript,Typescript**
+- 💬 Ask me about : **React,Javascript,Typescript**
 
-- 📫 How to reach me **ooamauty@gmail.com**
+- 📫 How to reach me : **ooamauty@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing)
+- 📄 Know about my experiences : [**Resume**](https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing)
 
-- ⚡ Fun fact **I can bench more than you**
+- ⚡ Fun fact : **I can bench more than you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
