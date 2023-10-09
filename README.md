@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ooamauty@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing](https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing)
 
 - ⚡ Fun fact **I can bench more than you**
 
