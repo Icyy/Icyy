@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Abhay Medical Dashboard**](https://github.com/Icyy/AbhayMedicalInventory)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning : **Next JS**
 
 - 👨‍💻 All of my projects are available at : [**Projects**](https://github.com/Icyy?tab=repositories)
 
