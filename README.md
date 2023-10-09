@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences : [**Resume**](https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing)
 
-- ⚡ Fun fact : **I can bench more than you**
+- ⚡ Fun fact : **I can do more pullups than you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
