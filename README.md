@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Auty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [**Ai powered workout & diet planner**]([https://github.com/Icyy/AbhayMedicalInventory](https://github.com/Icyy/workoutPlanner))
+- 🔭 I’m currently working on [**Ai powered workout & diet planner**](https://github.com/Icyy/workoutPlanner)
 
 - 🌱 I’m currently learning : **Next JS**
 
