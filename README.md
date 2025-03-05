@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **ooamauty@gmail.com**
 
-- 📄 Know about my experiences : [**Resume**](https://drive.google.com/file/d/1Q-5QaCfilp2vUSWryJ9RJa9wuvQZHJ0A/view?usp=sharing)
+- 📄 Know about my experiences : [**Resume**](https://drive.google.com/file/d/1kx8USJN3fShlGFXLkhpwrcdVkLLz7xP5/view?usp=sharing)
 
 - ⚡ Fun fact : **I can do more pullups than you**
 
